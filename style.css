@@ -22,3 +22,9 @@
 {
     font-size: 22px;
 }
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
